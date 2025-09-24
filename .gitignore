@@ -53,7 +53,7 @@ Mkfile.old
 dkms.conf
 
 # Zone Identifiers
-*Zone.Identifier
+*Zone.Identifier*
 
 # debug information files
 *.dwo
