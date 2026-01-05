@@ -1,4 +1,5 @@
 <img src="avrnix-logo.svg" style="max-width: 100%;">
+
 # AVRnix 1.0 – Release Notes
 
 Release Date: 04-01-26
@@ -20,3 +21,4 @@ running within 32 KB flash and 2 KB SRAM.
 ## Hardware
 - SDA: PC4
 - SCL: PC5
+- Made initially for the AVRnix SYS-01 (image provided below)
